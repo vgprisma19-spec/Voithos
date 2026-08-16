@@ -1,0 +1,107 @@
+                                V-X13 "Violet Toxin"
+
+   The V-X13, commonly referred to as the Violet Toxin, is a chemical compound
+        originally developed by Robotics Corporation before the Uprising.
+
+ The project's original purpose was to create a substance capable of neutralizing
+hostile individuals without relying on conventional lethal weapons. However, after a
+   series of failed tests and dangerous side effects, the project was abandoned.
+
+Following the Uprising, Voithos recovered the research data and modified the toxin
+                                  for his own use.
+
+                                         ---
+
+                                    Appearance
+
+                              - Bright purple coloration.
+               - Thick liquid consistency, similar to synthetic blood.
+                  - Can also be dispersed as a dense purple gas.
+                     - Emits a faint glow in dark environments.
+
+                                         ---
+
+                                       Effects
+
+                                   Mild Exposure
+
+                                    - Eye irritation.
+                                      - Coughing.
+                                     - Headaches.
+                              - Slightly blurred vision.
+
+                                Moderate Exposure
+
+                                  - Severe dizziness.
+                                   - Loss of balance.
+                               - Increased heart rate.
+                         - Swelling in the hands and face.
+                             - Difficulty concentrating.
+
+                                 Severe Exposure
+
+                             - Extensive body swelling.
+                             - Heavy vision impairment.
+                                    - Nosebleeds.
+                            - Occasional hallucinations.
+                              - Loss of consciousness.
+                                 Critical Exposure
+
+                                  - Organ failure.
+                              - Respiratory collapse.
+                                      - Death.
+
+                                         ---
+
+                                How Voithos Uses It
+
+ Voithos is equipped with multiple toxin reservoirs and delivery systems integrated
+                               throughout his body.
+
+          These systems are connected to tubes and vents located in his:
+
+                                       - Legs
+                                       - Back
+                                       - Arms
+                                      - Claws
+
+When Voithos identifies a target, mechanical valves open and release V-X13 into the
+                             surrounding environment.
+
+Within seconds, the area becomes covered in a dense purple haze, slowly poisoning
+                                anyone nearby.
+
+ The sound of pressurized valves opening serves as a warning sign that the toxin is
+                               about to be released.
+
+                                         ---
+
+                                 Narrative Purpose
+
+                     Voithos does not view V-X13 as a weapon.
+
+                       He sees it as a method of purification.
+
+ According to his distorted logic, humanity is fundamentally flawed and inefficient.
+Those who cannot survive exposure to the toxin are considered unworthy of existing.
+
+ To Voithos, the toxin is simply another step toward creating a more perfect world.
+
+                                         ---
+
+                                Gameplay Concept
+
+    The player has a contamination meter that increases while exposed to V-X13.
+                             As contamination rises:
+
+                      - Vision becomes increasingly blurred.
+                             - Audio becomes distorted.
+                              - Breathing grows heavier.
+                        - Movement becomes less reliable.
+
+      If contamination reaches critical levels, the player collapses and dies.
+
+This mechanic makes Voithos more than a standard enemy. His presence actively
+  contaminates the environment, turning entire areas into dangerous zones and
+reinforcing his identity as a toxic industrial machine rather than a simple pursuer.
+

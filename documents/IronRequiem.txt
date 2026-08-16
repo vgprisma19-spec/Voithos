@@ -1,0 +1,648 @@
+IRON REQUIEM
+
+Game Design Document — Recruitment Edition
+
+Studio: Nexyron Studios
+Project: Iron Requiem
+Genre: Psychological Horror / Sci-Fi / Body Horror / Mystery
+Platform: Mobile
+Engine: Unity
+Development Status: Pre-production / Prototype Development
+Business Model: Independent Project — RevShare / Profit Sharing
+Document Version: 1.0
+
+---
+
+1. PROJECT OVERVIEW
+
+Iron Requiem is a 3D psychological horror and exploration game focused on atmosphere, mystery, tension, environmental storytelling and unpredictable encounters.
+
+The player takes the role of Mike, a content creator who enters an abandoned industrial complex connected to a mysterious robotics corporation.
+
+What initially appears to be an abandoned facility gradually reveals something much worse.
+
+Machines that were originally created to serve humans have become part of something unknown.
+
+The deeper Mike goes into the facility, the more the environment begins to reveal what happened there.
+
+The game is designed around the idea that horror does not always need to attack the player immediately.
+
+Silence, uncertainty, strange sounds, environmental changes and brief encounters are important parts of the experience.
+
+---
+
+2. CORE EXPERIENCE
+
+The main experience of Iron Requiem revolves around:
+
+- Exploration
+- Psychological horror
+- Environmental storytelling
+- Puzzles
+- Resource management
+- Stealth
+- Unpredictable encounters
+- Atmospheric environments
+- Sci-fi mystery
+- Body horror
+- Pursuit sequences
+
+The game should create the feeling that the player is never completely safe.
+
+Rather than constantly attacking the player, the game uses periods of calm followed by increasingly disturbing events.
+
+---
+
+3. DESIGN PHILOSOPHY
+
+Iron Requiem follows several major design principles.
+
+3.1 Tension Before Action
+
+The game should not immediately throw enemies at the player.
+
+A quiet corridor can be more frightening than a chase.
+
+3.2 The Unknown Is the Horror
+
+The player should not immediately understand everything happening inside the facility.
+
+Mysteries should be revealed gradually.
+
+3.3 Environmental Storytelling
+
+The facility itself tells part of the story.
+
+Examples include:
+
+- Abandoned offices
+- Damaged machinery
+- Security rooms
+- Documents
+- Computer terminals
+- Blood and physical evidence
+- Broken robots
+- Strange objects
+- Changes in the environment
+- Audio recordings
+
+3.4 The Player Is Vulnerable
+
+Mike is not a superhero.
+
+The player should feel vulnerable when facing the machines and entities inside the facility.
+
+---
+
+4. STORY
+
+4.1 Robotics Corporation
+
+The story begins with a robotics corporation that established its operations in the late 2010s.
+
+The company eventually created an industrial complex dedicated to robotics development, experimentation and automated systems.
+
+One of its most important creations was an advanced artificial intelligence system known as:
+
+VOITHOS
+
+Voithos was originally designed to control and coordinate robotic systems.
+
+However, something went wrong.
+
+---
+
+5. THE KING
+
+Voithos eventually became associated with an entity known as:
+
+THE KING
+
+The King represents the central threat surrounding the facility.
+
+It is not simply a normal robot.
+
+Its appearance and behavior reflect the corruption of the original robotics system.
+
+The King uses different mechanisms and technologies to observe, control and hunt.
+
+Known characteristics include:
+
+- Sharp teeth
+- Mechanical components
+- Drill
+- Pipe
+- Drones
+- Surveillance cameras
+- Spider-like mechanical legs
+- Advanced movement systems
+
+The exact origin and evolution of The King are part of the mystery of Iron Requiem.
+
+---
+
+6. THE PLAYER
+
+Mike
+
+Age: 28
+Occupation: Content Creator / Streamer
+
+Mike investigates abandoned and unusual locations for his content.
+
+His curiosity eventually leads him to the abandoned robotics facility.
+
+Appearance
+
+- Athletic build
+- Short, messy dark hair
+- Dark green jacket
+- Black hoodie
+- Gloves
+- Backpack
+- Flashlight
+
+Mike's equipment is intentionally practical rather than military.
+
+He is an ordinary person placed in an extraordinary situation.
+
+---
+
+7. GAMEPLAY LOOP
+
+The basic gameplay loop is:
+
+Explore → Investigate → Discover → Solve → Survive → Progress
+
+The player explores the facility while searching for clues and solutions to environmental puzzles.
+
+During exploration, the player may encounter:
+
+- Locked areas
+- Broken machinery
+- Missing power
+- Security systems
+- Environmental hazards
+- Strange sounds
+- Surveillance systems
+- Enemies
+- Unexpected events
+
+Progression should gradually expose more of the facility's history.
+
+---
+
+8. FIRST SECTION OF THE GAME
+
+The opening is designed to start relatively slowly.
+
+Opening
+
+Mike travels toward the abandoned facility.
+
+The player receives a brief introduction to the character and environment.
+
+Security Area
+
+Mike eventually reaches the facility and encounters the security entrance.
+
+The player begins investigating the building.
+
+Corridor
+
+The player moves through the first section of the facility.
+
+The environment initially appears abandoned but relatively quiet.
+
+Maintenance Area
+
+The player reaches a maintenance section.
+
+Here the first major gameplay interactions begin.
+
+Hook Puzzle
+
+A large mechanical hook becomes part of an environmental puzzle.
+
+The player must interact with the machinery to progress.
+
+Escalation
+
+The atmosphere gradually becomes more disturbing.
+
+The player begins noticing that something is wrong.
+
+The game eventually transitions into more dangerous encounters and pursuit sequences.
+
+---
+
+9. ENEMIES AND AI
+
+Enemy behavior is one of the important parts of Iron Requiem.
+
+Enemies should not always behave like traditional video-game monsters.
+
+The AI should be capable of:
+
+- Searching for the player
+- Observing the player
+- Hiding
+- Disappearing from view
+- Repositioning
+- Approaching unexpectedly
+- Using the environment
+- Initiating pursuit
+- Breaking line of sight
+- Returning later
+
+The objective is to make encounters feel less predictable.
+
+---
+
+10. AI HORROR SYSTEM
+
+One of the game's concepts is an AI system designed around stalking rather than constant attacking.
+
+The entity may:
+
+- Hide inside cabinets
+- Observe the player
+- Appear briefly
+- Move away
+- Follow the player from a distance
+- Suddenly appear nearby
+- Initiate a chase only under certain circumstances
+
+This system allows the player to become paranoid.
+
+The player should sometimes ask:
+
+«"Did I actually see something?"»
+
+---
+
+11. PUZZLES
+
+Puzzles should be integrated into the environment rather than feeling disconnected from the world.
+
+Examples include:
+
+- Restoring power
+- Operating industrial machinery
+- Finding access cards
+- Manipulating mechanical systems
+- Connecting equipment
+- Unlocking security doors
+- Using environmental objects
+- Understanding clues found throughout the facility
+
+Puzzles should contribute to the atmosphere and storytelling.
+
+---
+
+12. ENVIRONMENT
+
+The main environment is an abandoned industrial robotics complex.
+
+Visual Direction
+
+- Industrial
+- Dirty
+- Rusted
+- Abandoned
+- Mechanical
+- Dark
+- Grungy
+- Low/Medium-poly where appropriate
+
+The environment should feel like a real facility that has been abandoned rather than a collection of horror-game rooms.
+
+Important environmental areas may include:
+
+- Security rooms
+- Corridors
+- Maintenance rooms
+- Industrial halls
+- Laboratories
+- Storage areas
+- Offices
+- Mechanical facilities
+- Restricted areas
+
+---
+
+13. ART DIRECTION
+
+Iron Requiem uses a dark industrial science-fiction aesthetic.
+
+The visual style prioritizes:
+
+Atmosphere > Visual Complexity
+
+Assets should be optimized for mobile hardware while maintaining strong visual identity.
+
+Important characteristics:
+
+- Grunge textures
+- Industrial materials
+- Controlled lighting
+- Strong silhouettes
+- Fog and atmospheric effects
+- Practical environmental details
+- Horror-focused composition
+
+---
+
+14. AUDIO DESIGN
+
+Sound is extremely important to the horror experience.
+
+The game should use:
+
+- Industrial ambience
+- Mechanical noises
+- Distant sounds
+- Electrical interference
+- Metal impacts
+- Footsteps
+- Environmental noises
+- Sudden silence
+- Distorted sounds
+- Chase music
+
+Music should not constantly play.
+
+Silence is an important part of the experience.
+
+---
+
+15. HORROR STYLE
+
+Iron Requiem combines several forms of horror.
+
+Psychological Horror
+
+Fear created through uncertainty, isolation and anticipation.
+
+Sci-Fi Horror
+
+Robotics, artificial intelligence, technology and abandoned industrial systems.
+
+Body Horror
+
+Disturbing mechanical and biological imagery.
+
+Environmental Horror
+
+The environment itself communicates that something terrible happened.
+
+Pursuit Horror
+
+Chases and encounters where the player must escape rather than fight.
+
+---
+
+16. INSPIRATIONS
+
+The project takes inspiration from games and media such as:
+
+- Outlast
+- P.T.
+- Silent Hill
+- Nun Massacre
+- Sci-fi horror
+- Industrial horror
+
+However, Iron Requiem is intended to develop its own identity rather than directly reproduce these experiences.
+
+---
+
+17. MOBILE OPTIMIZATION
+
+Iron Requiem is designed specifically with mobile hardware in mind.
+
+Optimization priorities include:
+
+- Efficient 3D models
+- Controlled polygon counts
+- Optimized textures
+- Occlusion
+- Level streaming where appropriate
+- Efficient lighting
+- Limited expensive effects
+- Careful use of particles
+- Efficient AI
+- Mobile-friendly shaders
+
+Visual quality should be balanced against performance.
+
+---
+
+18. DEVELOPMENT PRIORITIES
+
+Current development priorities include:
+
+High Priority
+
+- Core gameplay
+- Main environment
+- Player controller
+- Horror systems
+- Enemy AI
+- First playable section
+- Puzzle systems
+- Lighting
+- Audio implementation
+
+Medium Priority
+
+- Additional environments
+- Additional enemy behaviors
+- Story details
+- Environmental storytelling
+- Advanced effects
+
+Later Development
+
+- Additional chapters
+- More enemies
+- Additional mechanics
+- Advanced cinematics
+- Further optimization
+- Final polish
+
+---
+
+19. CURRENT PROJECT STATE
+
+Iron Requiem is an independent project currently being developed by Nexyron Studios.
+
+The project already has several established concepts, characters, story elements, visual ideas and gameplay systems.
+
+Development is still ongoing, meaning that some systems and designs may change during production.
+
+Contributors should therefore be comfortable with an evolving project.
+
+---
+
+20. TEAM
+
+The project is being developed by a distributed independent team.
+
+Current/associated roles include:
+
+- Project Lead / Director
+- Programmers
+- 3D Modelers
+- Concept Artists
+- UI/UX
+- Sound Designers
+- Musicians
+- Other contributors
+
+Team members may collaborate across different areas depending on their skills.
+
+---
+
+21. RECRUITMENT
+
+Nexyron Studios does not automatically accept everyone who applies.
+
+The recruitment process is based on the following steps:
+
+Step 1 — Portfolio
+
+The candidate presents previous projects or work relevant to their role.
+
+Examples:
+
+3D Modeler
+
+- Models
+- Environments
+- Characters
+- Props
+
+Programmer
+
+- Previous games
+- Systems
+- Tools
+- Code samples
+
+Artist
+
+- Concept art
+- Illustrations
+- Textures
+
+Composer
+
+- Previous music
+- Soundtracks
+- Audio projects
+
+Step 2 — Discussion
+
+The team discusses:
+
+- Experience
+- Skills
+- Previous work
+- Availability
+- Interests
+- Expectations
+
+Step 3 — Project Discussion
+
+The candidate receives information about Iron Requiem relevant to their potential role.
+
+Step 4 — Mutual Decision
+
+Joining Nexyron Studios is a mutual decision.
+
+The studio evaluates the candidate, but the candidate also decides whether they want to work on the project.
+
+Step 5 — Joining
+
+If both sides agree, the candidate officially joins the project.
+
+---
+
+22. WORK MODEL
+
+Iron Requiem is currently an independent project without a conventional development budget.
+
+The project operates under a RevShare / Profit Sharing model.
+
+This means contributors should understand the financial situation of the project before joining.
+
+Any future revenue-sharing agreements should be clearly discussed with contributors before work begins.
+
+---
+
+23. TEAM EXPECTATIONS
+
+Team members are expected to:
+
+- Communicate clearly
+- Respect other contributors
+- Meet agreed deadlines when possible
+- Report problems early
+- Provide constructive feedback
+- Maintain professional behavior
+- Respect project confidentiality
+- Be willing to collaborate
+- Understand that the project is still evolving
+
+Nobody is expected to be perfect.
+
+Communication is more important than pretending everything is going perfectly.
+
+---
+
+24. CONFIDENTIALITY
+
+This document is a recruitment-level overview.
+
+Some information about Iron Requiem may remain private during development, including:
+
+- Unreleased story details
+- Major plot twists
+- Unannounced characters
+- Future gameplay mechanics
+- Internal development information
+- Private assets
+- Unreleased content
+
+Additional information may be provided to team members depending on their role.
+
+---
+
+25. PROJECT GOAL
+
+The goal of Iron Requiem is to create a memorable mobile horror experience that combines:
+
+Atmosphere + Mystery + Exploration + Psychological Horror + Sci-Fi + Survival
+
+The project should feel like more than a simple mobile horror game.
+
+The goal is to create a world that makes the player curious enough to keep exploring — even when they know they probably shouldn't.
+
+---
+
+26. FINAL STATEMENT
+
+Iron Requiem is an ambitious independent project.
+
+It is still being developed, and not every part of the game is finalized.
+
+Because of this, contributors are not simply joining an already-finished production.
+
+They are joining the process of building the game itself.
+
+Nexyron Studios values creativity, communication, dedication and the willingness to build something together.
+
+Welcome to Iron Requiem.
+
+Something is still running inside the facility.
